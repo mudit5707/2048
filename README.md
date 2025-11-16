@@ -13,7 +13,7 @@ Supports Up, Down, Left, Right movements.
 
 Random tile generation (2s and 4s).
 
-Clear grid printing for terminal play.
+Clear grid printing for terminal play. (the tabulate library has been used for the same)
 
 Easy-to-read and well-structured Python logic.
 
